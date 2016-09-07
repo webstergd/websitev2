@@ -7,9 +7,9 @@ date: 2014-07-17
 img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+repository: https://github.com/HolmesProcessing/Holmes-Totem
+documentation: https://holmes-processing.readthedocs.io/en/latest/rst/installation/index.html
+license: https://github.com/HolmesProcessing/Holmes-Totem/blob/master/LICENSE
+overview: The Holmes-TOTEM Planner is responsible for turning data into information by performing feature extraction against submitted objects. When tasked, Holmes-TOTEM schedules the execution of its services which are capable of performing static and dynamic analysis as well as gather data from third parties.</p><p>The Holmes-TOTEM Investigation Planner is optimized for executing extraction services that complete in a few seconds, i.e. static analysis and 3rd party queries. When dealing with services that take longer to complete, we recommend pairing the Holmes-TOTEM Planner with Holmes-TOTEM-Long.
 
 ---
