@@ -1,6 +1,6 @@
 ---
 title: Totem
-subtitle: Static Analysis and 3rd Party Queries
+subtitle: Static Analysis and Queries
 layout: default
 modal-id: 2
 date: 2014-07-17
