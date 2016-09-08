@@ -4,8 +4,8 @@ subtitle: Results Analysis
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+img: golden.png
+thumbnail: golden-thumbnail.png
 alt: image-alt
 repository: https://github.com/HolmesProcessing/Holmes-Interrogation
 documentation: https://holmes-processing.readthedocs.io/en/latest/rst/installation/index.html
