@@ -10,6 +10,10 @@ alt: image-alt
 repository: https://github.com/HolmesProcessing/Holmes-Totem
 documentation: https://holmes-processing.readthedocs.io/en/latest/rst/installation/index.html
 license: https://github.com/HolmesProcessing/Holmes-Totem/blob/master/LICENSE
-overview: The Holmes-Totem Planner is responsible for turning data into information by performing feature extraction against submitted objects. When tasked, Holmes-Totem schedules the execution of its services which are capable of performing static and dynamic analysis as well as gather data from third parties.</p><p>The Holmes-Totem Investigation Planner is optimized for executing extraction services that complete in a few seconds, i.e. static analysis and 3rd party queries. When dealing with services that take longer to complete, we recommend pairing the Holmes-Totem Planner with Holmes-Totem-Dynamic.
 
 ---
+
+##### Overview
+The Holmes-TOTEM Planner is responsible for turning data into information by performing feature extraction against submitted objects. When tasked, Holmes-TOTEM schedules the execution of its services which are capable of performing static and dynamic analysis as well as gather data from third parties.
+
+The Holmes-TOTEM Investigation Planner is optimized for executing extraction services that complete in a few seconds, i.e. static analysis and 3rd party queries. When dealing with services that take longer to complete, we recommend pairing the Holmes-TOTEM Planner with [Holmes-TOTEM-Long](https://github.com/HolmesProcessing/Holmes-Totem-Long).

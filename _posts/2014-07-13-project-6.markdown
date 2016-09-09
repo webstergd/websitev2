@@ -10,6 +10,8 @@ alt: image-alt
 repository: https://github.com/HolmesProcessing/Holmes-Frontend
 documentation: https://holmes-processing.readthedocs.io/en/latest/rst/installation/index.html
 license: https://github.com/HolmesProcessing/Holmes-Frontend/blob/master/LICENSE
-overview: The Holmes-Frontend is supposed to be used to easily retrieve data from your Holmes installation and display it in a human readable way.
 
 ---
+
+##### Overview
+The Holmes-Frontend is supposed to be used to easily retrieve data from your Holmes installation and display it in a human readable way.
