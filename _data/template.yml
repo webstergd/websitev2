@@ -4,6 +4,8 @@ color:
   secondary: 0A667A
   secondary-dark: 333
   muted: 777
+  table-border: ddd 
+  table-row: f8f8f8 
 
 # Font Families
 font:

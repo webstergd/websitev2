@@ -57,6 +57,32 @@ h6 {
     font-weight: 700;
 }
 
+.table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: 1px solid #{{ site.data.template.color.table-border }};
+    font-size: 14px;
+    line-height: 1.75;
+    text-align: left;
+}
+
+.table thead tr th,
+.table tbody tr td {
+    border: 1px solid #{{ site.data.template.color.table-border }};
+}
+
+.table thead tr th {
+    text-align: center;
+}
+
+.table tbody tr:nth-child(odd) {
+    background-color: #{{ site.data.template.color.table-row }};
+}
+
+.table a {
+    text-decoration: none;
+}
+
 .img-centered {
     margin: 0 auto;
 }
