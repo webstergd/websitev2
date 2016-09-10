@@ -3,6 +3,7 @@ title: Storage
 subtitle: Database Interaction
 layout: default
 modal-id: 4
+category: project
 date: 2014-07-15
 img: golden.png
 thumbnail: golden-thumbnail.png

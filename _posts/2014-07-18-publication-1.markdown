@@ -1,9 +1,9 @@
 ---
-title: Gateway
-subtitle: Tasking Validation and Routing
+title: Publications
+subtitle: Academic & Industrial Publications
 layout: default
-modal-id: 1
-category: project
+modal-id: -1
+category: publications
 date: 2014-07-18
 img: golden.png
 thumbnail: golden-thumbnail.png
@@ -13,6 +13,11 @@ documentation: https://holmes-processing.readthedocs.io/en/latest/rst/installati
 license: https://github.com/HolmesProcessing/Holmes-Gateway/blob/master/LICENSE
 
 ---
+##### Description
+Holmes Processing is developed in partnership with academia and industry. Much of this work 
 
-##### Overview
-Main program for receiving tasking and objects. It validates input, checks authentication, and pushes the requests to the pipeline.
+##### Academic Publications
+
+
+##### Presentations
+

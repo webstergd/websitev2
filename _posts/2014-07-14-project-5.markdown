@@ -3,6 +3,7 @@ title: Investigation
 subtitle: Results Analysis
 layout: default
 modal-id: 5
+category: project
 date: 2014-07-14
 img: golden.png
 thumbnail: golden-thumbnail.png

@@ -3,6 +3,7 @@ title: Website
 subtitle: Multi-User Website
 layout: default
 modal-id: 6
+category: project
 date: 2014-07-13
 img: golden.png
 thumbnail: golden-thumbnail.png

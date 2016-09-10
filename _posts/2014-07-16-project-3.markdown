@@ -3,6 +3,7 @@ title: Totem-Dynamic
 subtitle: Dynamic Analysis
 layout: default
 modal-id: 3
+category: project
 date: 2014-07-16
 img: golden.png
 thumbnail: golden.png
